@@ -10,7 +10,7 @@
     "webpack": "webpack --mode development --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "fabrizhio al chariti",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
